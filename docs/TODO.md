@@ -2,3 +2,4 @@
 - [ ] SomeIp
 - [ ] Switch
 - [ ] PduR
+- [ ] CanTp
